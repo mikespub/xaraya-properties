@@ -1,0 +1,4 @@
+[submodule "listing"]
+	path = listing
+	url = https://github.com/xaraya/properties.git
+	branch = com.xaraya.properties.bermuda.listing
