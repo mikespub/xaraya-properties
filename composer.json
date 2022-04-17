@@ -1,6 +1,6 @@
 {
     "name": "xaraya/properties",
-    "type": "metapackage",
+    "type": "xaraya-bundle",
     "description": "Standalone properties to extend Xaraya's functionality",
     "license": "GPL-2.0-or-later",
     "extra": {

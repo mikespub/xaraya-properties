@@ -1,4 +1,4 @@
-# xaraya/properties metapackage
+# xaraya/properties bundle
 
 The original properties are available as [branches](branches.json) in the old https://github.com/xaraya/properties *repository*
 
