@@ -16,7 +16,7 @@
 	branch = com.xaraya.properties.jamaica.icondropdown
 [submodule "datetime"]
 	path = datetime
-	url = https://github.com/xaraya/properties.git
+	url = https://github.com/xaraya-modules/forked-properties.git
 	branch = com.xaraya.properties.jamaica.datetime
 [submodule "codemirror"]
 	path = codemirror
