@@ -9,15 +9,15 @@ The original properties are available as [branches](branches.json) in the old ht
 
 | Property | Original Branch | Forked Branch |
 | -------- | --------------- | ------------- |
-| iconcheckbox | [com.xaraya.properties.jamaica.iconcheckbox](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.iconcheckbox) | |
-| languages | [com.xaraya.properties.jamaica.language](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.language) | |
-| icondropdown | [com.xaraya.properties.jamaica.icondropdown](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.icondropdown) | |
+| iconcheckbox (x) | [com.xaraya.properties.jamaica.iconcheckbox](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.iconcheckbox) | [com.xaraya.properties.jamaica.iconcheckbox](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.jamaica.iconcheckbox) |
+| languages (x) | [com.xaraya.properties.jamaica.language](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.language) | [com.xaraya.properties.jamaica.language](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.jamaica.language) |
+| icondropdown (x) | [com.xaraya.properties.jamaica.icondropdown](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.icondropdown) | [com.xaraya.properties.jamaica.icondropdown](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.jamaica.icondropdown) |
 | datetime (x) | [com.xaraya.properties.jamaica.datetime](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.datetime) | [com.xaraya.properties.jamaica.datetime](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.jamaica.datetime) |
-| codemirror | [com.xaraya.properties.jamaica.codemirror](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.codemirror) | |
-| pager | [com.xaraya.properties.jamaica.pager](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.pager) | |
-| date | [com.xaraya.properties.jamaica.date](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.date) | |
-| qrcode | [com.xaraya.properties.bermuda.qrcode](https://github.com/xaraya/properties/tree/com.xaraya.properties.bermuda.qrcode) | |
-| listing | [com.xaraya.properties.bermuda.listing](https://github.com/xaraya/properties/tree/com.xaraya.properties.bermuda.listing) | |
+| codemirror (x) | [com.xaraya.properties.jamaica.codemirror](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.codemirror) | [com.xaraya.properties.jamaica.codemirror](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.jamaica.codemirror) |
+| pager (x) | [com.xaraya.properties.jamaica.pager](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.pager) | [com.xaraya.properties.jamaica.pager](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.jamaica.pager) |
+| date (x) | [com.xaraya.properties.jamaica.date](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.date) | [com.xaraya.properties.jamaica.date](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.jamaica.date) |
+| qrcode (x) | [com.xaraya.properties.bermuda.qrcode](https://github.com/xaraya/properties/tree/com.xaraya.properties.bermuda.qrcode) | [com.xaraya.properties.bermuda.qrcode](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.bermuda.qrcode) |
+| listing (x) | [com.xaraya.properties.bermuda.listing](https://github.com/xaraya/properties/tree/com.xaraya.properties.bermuda.listing) | [com.xaraya.properties.bermuda.listing](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.bermuda.listing) |
 
 (x) forked at https://github.com/xaraya-modules/forked-properties
 
