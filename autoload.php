@@ -20,7 +20,7 @@ function xaraya_properties_autoload($class)
 {
     $class = strtolower($class);
 
-    $class_array = array(
+    $class_array = [
         'codemirrorproperty'          => 'properties.codemirror.main',
         'datetimeproperty'            => 'properties.datetime.main',
         'datetimepropertyinstall'     => 'properties.datetime.install',
@@ -33,7 +33,7 @@ function xaraya_properties_autoload($class)
         'listingproperty'             => 'properties.listing.main',
         'listingpropertyinstall'      => 'properties.listing.install',
         'pagerproperty'               => 'properties.pager.main',
-    );
+    ];
 
     if (isset($class_array[$class])) {
         sys::import($class_array[$class]);
