@@ -8,6 +8,10 @@ add_submodule() {
 		echo "Submodule '$DIR' exists for '$BRANCH'"
 		# git submodule add -b "$BRANCH" https://github.com/xaraya/properties.git "$DIR"
 		# echo "| $1 | [$2](https://github.com/xaraya/properties/tree/$2) |" >>README.md
+		cd $DIR
+		git pull origin $BRANCH
+		git checkout $BRANCH
+		cd ..
 	else
 		echo "Submodule '$DIR' does not exist for '$BRANCH'"
 		# git submodule add -b "$BRANCH" https://github.com/xaraya/properties.git "$DIR"
