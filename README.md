@@ -15,6 +15,8 @@ The original properties are available as [branches](branches.json) in the old ht
 | datetime (x) | [com.xaraya.properties.jamaica.datetime](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.datetime) | [com.xaraya.properties.jamaica.datetime](https://github.com/xaraya-modules/forked-properties/tree/com.xaraya.properties.jamaica.datetime) |
 | codemirror | [com.xaraya.properties.jamaica.codemirror](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.codemirror) | |
 | pager | [com.xaraya.properties.jamaica.pager](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.pager) | |
+| date | [com.xaraya.properties.jamaica.date](https://github.com/xaraya/properties/tree/com.xaraya.properties.jamaica.date) | |
+| qrcode | [com.xaraya.properties.bermuda.qrcode](https://github.com/xaraya/properties/tree/com.xaraya.properties.bermuda.qrcode) | |
 | listing | [com.xaraya.properties.bermuda.listing](https://github.com/xaraya/properties/tree/com.xaraya.properties.bermuda.listing) | |
 
 (x) forked at https://github.com/xaraya-modules/forked-properties

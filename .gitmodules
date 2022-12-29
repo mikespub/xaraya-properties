@@ -1,18 +1,18 @@
 [submodule "listing"]
 	path = listing
-	url = https://github.com/xaraya/properties.git
+	url = https://github.com/xaraya-modules/forked-properties.git
 	branch = com.xaraya.properties.bermuda.listing
 [submodule "iconcheckbox"]
 	path = iconcheckbox
-	url = https://github.com/xaraya/properties.git
+	url = https://github.com/xaraya-modules/forked-properties.git
 	branch = com.xaraya.properties.jamaica.iconcheckbox
 [submodule "languages"]
 	path = languages
-	url = https://github.com/xaraya/properties.git
+	url = https://github.com/xaraya-modules/forked-properties.git
 	branch = com.xaraya.properties.jamaica.language
 [submodule "icondropdown"]
 	path = icondropdown
-	url = https://github.com/xaraya/properties.git
+	url = https://github.com/xaraya-modules/forked-properties.git
 	branch = com.xaraya.properties.jamaica.icondropdown
 [submodule "datetime"]
 	path = datetime
@@ -20,9 +20,17 @@
 	branch = com.xaraya.properties.jamaica.datetime
 [submodule "codemirror"]
 	path = codemirror
-	url = https://github.com/xaraya/properties.git
+	url = https://github.com/xaraya-modules/forked-properties.git
 	branch = com.xaraya.properties.jamaica.codemirror
 [submodule "pager"]
 	path = pager
-	url = https://github.com/xaraya/properties.git
+	url = https://github.com/xaraya-modules/forked-properties.git
 	branch = com.xaraya.properties.jamaica.pager
+[submodule "date"]
+	path = date
+	url = https://github.com/xaraya-modules/forked-properties.git
+	branch = com.xaraya.properties.jamaica.date
+[submodule "qrcode"]
+	path = qrcode
+	url = https://github.com/xaraya-modules/forked-properties.git
+	branch = com.xaraya.properties.bermuda.qrcode

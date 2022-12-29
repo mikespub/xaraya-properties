@@ -43,5 +43,6 @@
   "name": "com.xaraya.properties.jamaica.name",
   "province": "com.xaraya.properties.jamaica.province",
   "address": "com.xaraya.properties.jamaica.address",
+  "qrcode": "com.xaraya.properties.bermuda.qrcode",
   "listing": "com.xaraya.properties.bermuda.listing"
 }
