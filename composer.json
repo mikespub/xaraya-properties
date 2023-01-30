@@ -12,7 +12,10 @@
     "suggest": {},
     "config": {
         "optimize-autoloader": true,
-        "sort-packages": true
+        "sort-packages": true,
+        "preferred-install": {
+            "xaraya/properties": "source"
+        }
     },
     "autoload": {
         "classmap": ["./"],
