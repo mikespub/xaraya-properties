@@ -34,3 +34,7 @@
 	path = qrcode
 	url = https://github.com/xaraya-modules/forked-properties.git
 	branch = com.xaraya.properties.bermuda.qrcode
+[submodule "address"]
+	path = address
+	url = https://github.com/xaraya-modules/forked-properties.git
+	branch = com.xaraya.properties.jamaica.address

@@ -6,6 +6,7 @@
   "codemirror": "com.xaraya.properties.jamaica.codemirror",
   "pager": "com.xaraya.properties.jamaica.pager",
   "date": "com.xaraya.properties.jamaica.date",
+  "address": "com.xaraya.properties.jamaica.address",
   "qrcode": "com.xaraya.properties.bermuda.qrcode",
   "listing": "com.xaraya.properties.bermuda.listing"
 }
