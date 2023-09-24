@@ -30,7 +30,7 @@ add_branches() {
 FILE="selected.json"
 add_branches $FILE
 
-#git submodule sync --recursive
-#git submodule update --init --recursive
+git submodule sync --recursive
+git submodule update --init --recursive
 git status
 # git push
