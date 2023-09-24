@@ -11,6 +11,7 @@ add_submodule() {
 		cd $DIR
 		git pull origin $BRANCH
 		git checkout $BRANCH
+		git add .
 		cd ..
 	else
 		echo "Submodule '$DIR' does not exist for '$BRANCH'"
@@ -29,7 +30,7 @@ add_branches() {
 FILE="selected.json"
 add_branches $FILE
 
-git submodule sync --recursive
-git submodule update --init --recursive
+#git submodule sync --recursive
+#git submodule update --init --recursive
 git status
 # git push
