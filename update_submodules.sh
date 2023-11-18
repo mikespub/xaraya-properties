@@ -11,6 +11,7 @@ add_submodule() {
 		cd $DIR
 		git pull origin $BRANCH
 		git checkout $BRANCH
+		# git pull
 		git add .
 		cd ..
 	else
